@@ -1,7 +1,7 @@
 # trippy-visualizer
 <h1>Audio Visualizer v0.2</h1>
 
-Deployed at <a href = 'babu-akhil.github.io/trippy-visualizer'>Github Pages</a> but it is super laggy, so I recommend cloning the repo
+Deployed at [Github Pages](https://babu-akhil.github.io/trippy-visualizer/) but it is super laggy, so I recommend cloning the repo
 and running on a local server.
 
 <h2>Running on local server</h2>
